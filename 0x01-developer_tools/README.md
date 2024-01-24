@@ -136,4 +136,4 @@ Read or watch:
 ---
 
 ## Author
-* **Edudzi Worlasi Osborn** - [Mahiuha](https://github.com/profosborn)
+* **Edudzi Worlasi Osborn** - [ProfOsborn](https://github.com/profosborn)
